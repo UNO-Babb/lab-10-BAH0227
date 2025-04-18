@@ -1,0 +1,2 @@
+The data in this lab is a graph showing the relationship between the horsepower of a car and the miles per gallon it gets with gas. 
+The visualization shows that cars fuel effciency decreases sharply at about 200 horsepower, and it has a almost hyperbolic trend. 
